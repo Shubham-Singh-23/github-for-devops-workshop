@@ -1,0 +1,45 @@
+
+   git init
+   git add .
+   git --version
+   code
+   python3 testing.py
+   ls
+   ls -l
+   rm testing.py 
+   ls
+   git init
+   ls
+   ls -a
+   git status
+   clear
+   git status
+   git add testing.py 
+   git status
+   git rm --cached testing.py 
+   git status
+   git add.
+   git status
+   git commit -m "added testing files" 
+   git status
+   rm testing.py 
+   ls 
+   clear
+   git status
+   git restore testing.py
+   git status
+   ls
+   clear
+
+echo "# github-for-devops-workshop" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Shubham-Singh-23/github-for-devops-workshop.git
+git push -u orgin main
+
+
+git remote add origin https://github.com/Shubham-Singh-23/github-for-devops-workshop.git
+git branch -M main
+git push -u origin main
