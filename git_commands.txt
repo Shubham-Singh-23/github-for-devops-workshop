@@ -43,3 +43,9 @@ git push -u orgin main
 git remote add origin https://github.com/Shubham-Singh-23/github-for-devops-workshop.git
 git branch -M main
 git push -u origin main
+
+
+git commit --m "saving local changes before merge"
+git merge origin/master --allow-unrelated-histories
+git status
+git push origin main
