@@ -1,9 +1,6 @@
-def my_funtion():
-
-
- a = 5
- b = 6
-
- return d
+def my_function():
+    
+    a = 5
+    return a
 
 my_function()
