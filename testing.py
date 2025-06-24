@@ -1,8 +1,7 @@
 def hello():
-    """
-    this is demo
-    """
-    return "Hello shubham"
 
+    """
+    This is demo function.
 
-hello()
+    """
+    return "hello"
